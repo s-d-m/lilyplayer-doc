@@ -4,3 +4,7 @@ This repository shouldn't even exists as everything should be in lilyplayer's re
 Unfortunately, when trying to publish documentation, the jekyll job fails, even though there is a .nojekyll file at the root.
 
 This repository is here only to work around that issue
+
+
+The documentation is available at https://s-d-m.github.io/lilyplayer-doc/
+
